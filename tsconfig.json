@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2021",
     "module": "ESNext",
-    "outDir": "./dist",
+    "outDir": "./public/dist",
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
